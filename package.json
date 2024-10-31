@@ -1,6 +1,6 @@
 {
   "name": "@phaier/util",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Utilities for TypeScript",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
